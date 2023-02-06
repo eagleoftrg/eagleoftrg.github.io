@@ -397,7 +397,7 @@ button {
 }
 
 .site-navbar ul li a {
-    color: #00d63f;
+    color: #ffffff;
     font-size: 17px;
     display: block;
     text-decoration: none;
@@ -413,7 +413,7 @@ button {
 }
 
 .site-navbar ul li a:hover {
-    color: #ffffff;
+    color: #00d63f;
 }
 .site-navbar ul li a.active {
     color: #00d63f;
